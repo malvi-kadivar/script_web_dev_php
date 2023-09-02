@@ -1,0 +1,6 @@
+script13.php
+<?PHP
+$HTML ="<A HREF='EXAMPLE_FILE.PHP'>CLICK HERE</A>";
+ECHO $HTML
+ 
+?>
